@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppRoomKotlin</string>
+    <string name="valettitulo">Ingrese título</string>
+    <string name="valetcontenido">Ingrese contenido</string>
+    <string name="valtvcolores">Seleccione el color de la tarjeta:</string>
+    <string name="valrbtnrojo">Rojo</string>
+    <string name="valrbtnamararillo">Amarillo</string>
+    <string name="valrbtnverde">Verde</string>
+    <string name="valswimportante">Es importante?</string>
+</resources>
